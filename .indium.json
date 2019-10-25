@@ -1,0 +1,10 @@
+{
+    "configuration" : [
+	{
+	    "name" : "Web project",
+	    "type" : "chrome",
+	    "url" : "localhost",
+	    "port" : 3000
+	}
+    ]
+}
